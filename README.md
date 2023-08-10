@@ -31,7 +31,7 @@ All Compose code can be found in the `compose`
 **Note**: As Compose cannot render HTML code in `Text` yet. The 
 `AndroidViewBinding` API is used to embed a `TextView` in Compose. See the 
 `PlantDescription` composable in the
-[PlantDetailView file](app/src/main/java/com/google/samples/apps/sunflower/compose/plantdetail/PlantDetailView.kt).
+[PlantDetailView file](app/src/main/java/com/google/samples/apps/sunflower/compose/plantdetail/PlantDetailView.kt). 
 
 ## Requirements
 
